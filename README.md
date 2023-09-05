@@ -1,0 +1,3 @@
+# Dm-tool
+SHONA op and just do it on replit ok
+ - JUST THERE MUST BE Main.py PRESENT DELETE ALL THE OTHER LIKE .REPLIT AND READ ME THEN ONLY IT WILL WORK - 
